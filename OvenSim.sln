@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OvenSim", "OvenSim.csproj", "{1D52E056-FF57-4AFA-88E7-A0E75D7A646F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D52E056-FF57-4AFA-88E7-A0E75D7A646F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D52E056-FF57-4AFA-88E7-A0E75D7A646F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D52E056-FF57-4AFA-88E7-A0E75D7A646F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D52E056-FF57-4AFA-88E7-A0E75D7A646F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03D670DF-1DEC-4A2A-A7C6-2CABCAFC551C}
+	EndGlobalSection
+EndGlobal
